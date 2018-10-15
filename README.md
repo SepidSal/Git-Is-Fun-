@@ -1,4 +1,4 @@
-# Funnies Git Repositories!
+# Funniest Git Repositories!
 ________________________________________
 
 Enjoy them! :relaxed:
