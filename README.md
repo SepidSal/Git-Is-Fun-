@@ -1,6 +1,4 @@
-# GitIsFun
-
-Funnies Git Repositories! :boom::sparkling_heart:
+#Funnies Git Repositories!
 ________________________________________
 
 Enjoy them! :relaxed:
