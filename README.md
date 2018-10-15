@@ -4,4 +4,5 @@ ________________________________________
 Enjoy them! :relaxed:
 
 
--	[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908) :heart_eyes::muscle:
+-	[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908) :heart_eyes::muscle:Awesome JavaFX
+- [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX) :books:
