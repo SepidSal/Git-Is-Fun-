@@ -1,4 +1,4 @@
-# Funniest Git Repositories!
+# Funniest Git Repositories!:sparkling_heart:
 ________________________________________
 
 Enjoy them! :relaxed:
